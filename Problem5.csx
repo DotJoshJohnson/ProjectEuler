@@ -3,7 +3,7 @@
  *
  * What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
  *
- * https://projecteuler.net/problem=4
+ * https://projecteuler.net/problem=5
  */
 
 int minDivisor = 1, maxDivisor = 20;
